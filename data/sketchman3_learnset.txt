@@ -1,0 +1,11 @@
+Level	Move		Analogue	Type		PP
+Start	Sketch		Sketch		Pixelist	1
+11	Sketch		Sketch		Pixelist	1
+21	Sketch		Sketch		Pixelist	1
+31	Sketch		Sketch		Pixelist	1
+41	Sketch		Sketch		Pixelist	1
+51	Sketch		Sketch		Pixelist	1
+61	Sketch		Sketch		Pixelist	1
+71	Sketch		Sketch		Pixelist	1
+81	Sketch		Sketch		Pixelist	1
+91	Sketch		Sketch		Pixelist	1

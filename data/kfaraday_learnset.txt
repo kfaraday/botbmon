@@ -7,4 +7,4 @@ Start
 35	Counterpoint	Counter		Chipist		20
 44	Alt		Substitute	Playa		10
 53	Arpeggio	Triple Kick	Chipist		10
-67
+67	Versa Versa	Reversal	Chipist		15

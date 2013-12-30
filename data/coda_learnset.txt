@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start	Drum Kick	Scratch		Mixist		30
+6
+10	Synth Jet	Thundershock	Mixist		40
+18	Portamento Up	Growth		Mixist		40
+25	Downvote	Charm		Criticist	20
+31	
+36
+42	Synth Blast	Thunderbolt	Mixist		15
+49	Dorito Dust	Mud Shot	Mixist		10
