@@ -7,5 +7,4 @@ Start
 27	Funktumpo	Psywave		Mixist		15
 35	Draw Sample	Razor Wind	Mixist		10
 42	Alt		Substitute	Playa		10
-47
-
+47	Collab		Beat Up		Playa		10

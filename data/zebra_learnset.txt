@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start	Pattern Break	Rapid Spin	Chipist		40
+Start
+6	Echo		Double Kick	Mixist		30
+13
+18	Optimize	Minimize	Chipist		20
+24
+31	Collab		Beat Up		Playa		10
+38	Bifurcation	Super Fang	Mixist		10
+44

@@ -34,3 +34,6 @@ Liek		Growl		Playa
 Funktempo	Psywave		Mixist
 Render		Foresight	Renderist
 Bass Slap	Mud-Slap	Mixist
+Collab		Beat Up		Playa
+Munch		Bite		Mixist
+Snare		Clamp		Mixist

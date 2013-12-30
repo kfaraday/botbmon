@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+6
+13
+21
+28	Triangle Wave	Tri Attack	Chipist		10
+35	Collab		Beat Up		Playa		10
+43
+53

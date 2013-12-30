@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start	Wing Attack	Wing Attack	Mixist		35
+Start
+7
+15
+21	Funktempo	Psywave		Mixist		15
+28	Snare		Clamp		Mixist		10
+34
+42
+45
