@@ -1,0 +1,36 @@
+Move		Analogue	Type
+Late Submit	Future Sight	OHCist
+Alt		Substitude	Playa
+Downvote	Charm		Criticist
+Backdoor	Faint Attack	Playa
+Counterpoint	Counter		Chipist
+Retrigger	Double Slap	Mixist
+Arpeggio	Triple Kick	Chipist
+Hardpan		Zap Cannon	Mixist
+Echo		Double Kick	Mixist
+Tempo Slide	Agility		Mixist
+Surround	Double Team	Mixist
+Pattern Break	Rapid Spin	Chipist
+Bug Report	Amnesia		Playa
+Sample		Mimic		Samplist
+Super Shotgun	Hyper Beam	Mappist
+Normalize	Haze		Renderist
+Guide		Lock-On		Pedagogist
+Web Dev		Spider Web	Grafxicist
+Restrict	Disable		Hostist
+Dither		Pain Split	Pixelist
+Encore		Encore		Criticist
+Synthesis	Synthesis	Chipist
+Nemesis		Bide		OHCist
+Optimize	Minimize	Chipist
+Draw Sample	Razor Wind	Mixist
+Transpose	Baton Pass	OHCist
+Conversion	Conversion	Mixist
+Pastiche	Mirror Move	Criticist
+Defeatistcore	Selfdestruct	n00b
+Drum Kick	Rolling Kick	Mixist
+Haeit		Focus Energy	Playa
+Liek		Growl		Playa
+Funktempo	Psywave		Mixist
+Render		Foresight	Renderist
+Bass Slap	Mud-Slap	Mixist

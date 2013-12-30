@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start	Render		Foresight	Renderist	40
+7	Haeit		Focus Energy	Playa		30
+14	Conversion	Conversion	Mixist		30
+20	Pastiche	Mirror Move	Criticist	20
+29
+38	Nemesis		Bide		OHCist		10
+42
+52

@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+11
+21
+29	Drum Kick	Rolling Kick	Mixist		15
+39	Alt		Substitute	Playa		10
+48	Stubmlebeat	Rock Slide	Mixist		10
+56
+68

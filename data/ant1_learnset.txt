@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+8
+18
+26	Counterpoint	Counter		Chipist		20
+34	Web Dev		Spider Web	Grafxicist	10
+42
+52
+61

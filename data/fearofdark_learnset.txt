@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+8
+16
+22
+28
+36	Arpeggio	Triple Kick	Chipist		10
+41	Extrasolar	Solarbeam	Mixist		10
+49	Summer Chip	Sunny Day	Chipist		5

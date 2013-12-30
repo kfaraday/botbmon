@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+7
+13
+19	Funktempo	Psywave		Mixist		15
+24	Bass Slap	Mud-Slap	Mixist		10
+35
+42	Defeatistcore	Selfdestruct	n00b		5
+52

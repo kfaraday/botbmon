@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+9
+16
+23	Tempo Slide	Agility		Mixist		30
+35	Counterpoint	Counter		Chipist		20
+44	Alt		Substitute	Playa		10
+53	Arpeggio	Triple Kick	Chipist		10
+67

@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+7	Echo		Double Kick	Mixist		30
+14	Conversion	Conversion	Mixist		30
+23	Downvote	Charm		Criticist	20
+27
+36	Nemesis		Bide		Playa		10
+44	Synthesis	Synthesis	Chipist		5
+53	Hardpan		Zap Cannon	Mixist		5

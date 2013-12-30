@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+8
+16	Bug Report	Amnesia		Playa		20
+24	Archchannelfist	Mega Punch	Chipist		20
+31
+35
+45
+53

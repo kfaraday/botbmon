@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+8
+16
+25	Yiffxel		Pursuit		Pixelist	20
+30	Arpeggio	Triple Kick	Chipist		10
+39
+47	Super Shotgun	Hyper Beam	Mappist		5
+55

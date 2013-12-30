@@ -1,0 +1,10 @@
+Level	Move		Analogue	Type		PP
+Start
+Start
+10
+20
+30
+37
+48	Alt		Substitute	Playa		10
+56
+62
