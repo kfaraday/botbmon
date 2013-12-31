@@ -3,8 +3,8 @@ Start
 Start
 10
 20
-30
-37
+30	Optimize	Minimize	Chipist		20
+37	Retrigger	Spike Cannon	Mixist		15
 48	Alt		Substitute	Playa		10
 56
 62

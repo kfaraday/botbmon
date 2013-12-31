@@ -4,7 +4,7 @@ Start
 8	Echo		Double Kick	Mixist		30
 16
 23	Optimize	Minimize	Chipist		20
-27	Funktumpo	Psywave		Mixist		15
+27	Funktempo	Psywave		Mixist		15
 35	Draw Sample	Razor Wind	Mixist		10
 42	Alt		Substitute	Playa		10
 47	Collab		Beat Up		Playa		10

@@ -4,7 +4,7 @@ Alt		Substitude	Playa
 Downvote	Charm		Criticist
 Backdoor	Faint Attack	Playa
 Counterpoint	Counter		Chipist
-Retrigger	Double Slap	Mixist
+Retrigger	Spike Cannon	Mixist
 Arpeggio	Triple Kick	Chipist
 Hardpan		Zap Cannon	Mixist
 Echo		Double Kick	Mixist
