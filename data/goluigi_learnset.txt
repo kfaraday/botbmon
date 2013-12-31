@@ -6,5 +6,5 @@ Start
 23  	Mip 		Sweet Kiss  	Mixist          10
 27  	Radix Bomb  	Magnet Bomb   	Chipist        	20
 35  	Funktempo       Psywave		Mixist        	15
-42  	Alt		Substitute	Play		10
-47  	rip everyone  	Zap Cannon	Play		5
+42  	Alt		Substitute	Playa		10
+47  	rip everyone  	Zap Cannon	Playa		5
