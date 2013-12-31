@@ -1,13 +1,13 @@
 Chipist		Physical
 Mixist		Special
 Samplist	Special
-OHBist
-Renderist
+OHBist    Physical
+Renderist Physical
 Pixelist	Physical
 Criticist	Special
 Pedagogist	Special
-Playa
+Playa     Special
 Mappist		Physical
-Hostist
+Hostist   Special
 Grafixcist	Physical
 Taggist		Special
