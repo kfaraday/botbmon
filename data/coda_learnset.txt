@@ -4,7 +4,7 @@ Start	Drum Kick	Scratch		Mixist		30
 10	Synth Jet	Thundershock	Mixist		40
 18	Portamento Up	Growth		Mixist		40
 25	Downvote	Charm		Criticist	20
-31
-36  	Conversion	Conversion	Mixist		10
+31	Leave Forever	Teleport	Playa		20
+36  	it2format	Conversion	Mixist		10
 42	Synth Blast	Thunderbolt	Mixist		15
 49	Dorito Dust	Mud Shot	Mixist		10
